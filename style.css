@@ -1,0 +1,9 @@
+body > header {
+    background-color: aqua;
+    padding: 19px;
+    text-align: left;
+}
+
+body > header > nav {
+    text-align: center;
+}   
